@@ -29,4 +29,6 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 
 
-![](https://avatars.githubusercontent.com/u/30476529?s=280&v=4)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/git/odev1/figures/github.png" alt="Sublime's custom image"/>
+</p>
